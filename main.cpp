@@ -17,7 +17,6 @@ int main() {
     int k;
     menu();
     cin >> k;
-
     switch (k) {
         case 1: {
             int x, y;
